@@ -9,8 +9,8 @@ class ProfileController extends Controller
     public function index($id)
     {
 
-        $name = "Donal Trump";
-        $age = "75";
+        $name = "Nibir Hossain";
+        $age = "22";
 
 
         $data = [
